@@ -67,4 +67,4 @@ Investor Demo Features:
 - Showcase R120 monthly household value
 - Display environmental impact metrics
 - Highlight community participation
-- Include EcoRewards branding throughout# App-Pitch-Shark-Tank-Project
+- Include EcoRewards branding throughout
